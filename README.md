@@ -30,5 +30,3 @@ VR을 활용한 어린이를 위한 교통 안전 교육 시뮬레이션
 [[![hqdefault](https://github.com/user-attachments/assets/25471a1c-ca5b-4cbf-bf02-9b77d9f3b7a3)](https://youtu.be/Yr9lXQqpY8M)]
 
 
-## 3. 기믹 설명
-
